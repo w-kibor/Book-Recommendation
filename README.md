@@ -19,12 +19,14 @@ Users can search for books by title or by topic (e.g., "Business", "IT") to get 
 - Streamlit
 
 ## 👥 Contributors
-- Chem
-- [Friend 1](https://github.com/friend1)
-- [Friend 2](https://github.com/friend2)
+- Wilkister Kibor
+- [Jean Bitok](https://github.com/Jeanbitok)
+- [Daphine Kemboi](https://github.com/Daph035)
+- [Stacy Ayora](https://github.com/stacyayora)
+- [Georgina Cheruiyot](https://github.com/Jeanbitok)
 
 ## 📂 Dataset
-Dataset sourced from [Goodreads or source name].
+Dataset sourced from [kaggle datasets].
 
 ---
 
