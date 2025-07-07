@@ -23,7 +23,7 @@ Users can search for books by title or by topic (e.g., "Business", "IT") to get 
 - [Jean Bitok](https://github.com/Jeanbitok)
 - [Daphine Kemboi](https://github.com/Daph035)
 - [Stacy Ayora](https://github.com/stacyayora)
-- [Georgina Cheruiyot](https://github.com/Jeanbitok)
+- [Georgina Cheruiyot](https://github.com/GEORGY24615)
 
 ## 📂 Dataset
 Dataset sourced from [kaggle datasets].
