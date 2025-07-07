@@ -3,7 +3,7 @@ import numpy as np
 from difflib import get_close_matches
 
 
-df=pd.read_csv('C:/Users/Administrator/OneDrive/Desktop/Data Projects/books.csv', on_bad_lines='skip')
+df = pd.read_csv('books.csv', on_bad_lines='skip')
 
 # Fill missing values for soup components
 df['title'] = df['title'].fillna('')
