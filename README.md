@@ -10,7 +10,7 @@ Users can search for books by title or by topic (e.g., "Business", "IT") to get 
 - Simple, clean user interface with Streamlit
 
 ## 🚀 Try It Live
-[Click here to use the app](https://your-app-link.streamlit.app)
+[Click here to use the app](https://book-recommend.streamlit.app/)
 
 ## 👩🏽‍💻 Built With
 - Python
